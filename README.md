@@ -1,0 +1,3 @@
+- 👋 oi, meu nome é Luiz Pomaro
+- :+1: meu gmail para contato luiz.pomaro@escola.pr.gov.br
+- 🌱 estou com interesado em progamação
